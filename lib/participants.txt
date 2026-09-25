@@ -1,0 +1,121 @@
+501;Cédric;GARCIA;M;M1M;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+502;Stéphanie;ALRIC;F;M2F;Individuel;Albi;10km;Solo – 10 km
+503;Jérôme;MAZEL;M;SEM;Team Trail Tarnaise;Castres;30km;Lou Costo – 30 km
+504;Amandine;ROUQUETTE;F;SEF;Individuel;Lavaur;rando;Randonnée
+505;Thomas;MEYER;M;M2M;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+506;Nathalie;FABRE;F;M3F;Graulhet Athlé;Graulhet;10km;Solo – 10 km
+507;Mathieu;VIGNAL;M;SEM;Individuel;Toulouse;30km;Lou Costo – 30 km
+508;Florence;VIDAL;F;M1F;Individuel;Saint-Sulpice;rando;Randonnée
+509;Nicolas;PRAT;M;M1M;Aussiillon Trail;Aussillon;18km;Lou Cami – 18 km
+510;Caroline;BARTHES;F;M0F;Individuel;Rabastens;10km;Solo – 10 km
+511;Julien;ROQUES;M;SEM;Team 12;Rodez;30km;Lou Costo – 30 km
+512;Sonia;BOUISSOU;F;M2F;Individuel;Graulhet;rando;Randonnée
+513;David;RENAUD;M;M3M;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+514;Audrey;VAISSIERE;F;M1F;Individuel;Albi;10km;Solo – 10 km
+515;Sébastien;CALMETTES;M;M1M;Macadam Colomiers;Colomiers;30km;Lou Costo – 30 km
+516;Emmanuelle;GOMEZ;F;M0F;Individuel;Lavaur;rando;Randonnée
+517;Frédéric;COMBES;M;M2M;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+518;Valérie;CATHALA;F;M3F;Individuel;Castres;10km;Solo – 10 km
+519;Stéphane;GUILHOT;M;M2M;Graulhet Athlé;Graulhet;30km;Lou Costo – 30 km
+520;Sylvie;BOUSQUET;F;M4F;Individuel;Gaillac;rando;Randonnée
+521;Loïc;MARTINEZ;M;SEM;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+522;Mélanie;DURAND;F;SEF;Individuel;Albi;10km;Solo – 10 km
+523;Olivier;PECH;M;M1M;Team Trail Tarnaise;Mazamet;30km;Lou Costo – 30 km
+524;Nadine;BERTRAND;F;M5F;Individuel;Lisle-sur-Tarn;rando;Randonnée
+525;Yannick;BOYER;M;M0M;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+526;Aurélie;GARY;F;M1F;Individuel;Graulhet;10km;Solo – 10 km
+527;Christophe;PAGES;M;M3M;Castres Olympique;Castres;30km;Lou Costo – 30 km
+528;Chantal;ROQUES;F;M6F;Individuel;Realmont;rando;Randonnée
+529;Alexandre;MOULIN;M;SEM;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+530;Sandrine;REYNES;F;M2F;Individuel;Lavaur;10km;Solo – 10 km
+531;Guillaume;VIVIES;M;M1M;Team Running Albi;Albi;30km;Lou Costo – 30 km
+532;Isabelle;MARON;F;M3F;Individuel;Briatexte;rando;Randonnée
+533;Benoît;SABLAYROLLES;M;M0M;Individuel;Castres;18km;Lou Cami – 18 km
+534;Nathalie;GARCIA;F;M4F;Briatexte Athlé;Briatexte;10km;Solo – 10 km
+535;Romain;REVEL;M;SEM;Individuel;Toulouse;30km;Lou Costo – 30 km
+536;Estelle;GIRAUD;F;M1F;Individuel;Gaillac;rando;Randonnée
+537;Patrice;BONNET;M;M2M;Graulhet Athlé;Graulhet;18km;Lou Cami – 18 km
+538;Sandrine;GOMEZ;F;M2F;Individuel;Lavaur;10km;Solo – 10 km
+539;Sébastien;ROQUES;M;M1M;Team 12;Rodez;30km;Lou Costo – 30 km
+540;Chantal;BERTRAND;F;M5F;Individuel;Briatexte;rando;Randonnée
+541;Florian;AURIOL;M;SEM;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+542;Virginie;MARTY;F;M0F;Individuel;Albi;10km;Solo – 10 km
+543;Lionel;FABRE;M;M3M;Graulhet Athlé;Graulhet;30km;Lou Costo – 30 km
+544;Monique;VIDAL;F;M6F;Individuel;Saint-Sulpice;rando;Randonnée
+545;Jérémy;COMBES;M;M0M;Individuel;Castres;18km;Lou Cami – 18 km
+546;Émilie;PRAT;F;M1F;Aussillon Trail;Aussillon;10km;Solo – 10 km
+547;Thierry;BOUSQUET;M;M4M;Individuel;Gaillac;30km;Lou Costo – 30 km
+548;Nathalie;MEYER;F;M3F;Briatexte Athlé;Briatexte;rando;Randonnée
+549;Stéphane;CALMETTES;M;M1M;Macadam Colomiers;Colomiers;18km;Lou Cami – 18 km
+550;Audrey;ALRIC;F;M2F;Individuel;Albi;10km;Solo – 10 km
+551;Guillaume;BARTHES;M;M0M;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+552;Marie;DURAND;F;SEF;Individuel;Albi;10km;Solo – 10 km
+553;Pierre;MARTIN;M;M2M;Castres Olympique;Castres;30km;Lou Costo – 30 km
+554;Sarah;MASSON;F;SEF;Individuel;Lavaur;rando;Randonnée
+555;Jean;DUPONT;M;M1M;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+556;Stéphanie;ALRIC;F;M2F;Individuel;Albi;10km;Solo – 10 km
+557;Jérôme;MAZEL;M;SEM;Team Trail Tarnaise;Castres;30km;Lou Costo – 30 km
+558;Amandine;ROUQUETTE;F;SEF;Individuel;Lavaur;rando;Randonnée
+559;Thomas;MEYER;M;M2M;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+560;Nathalie;FABRE;F;M3F;Graulhet Athlé;Graulhet;10km;Solo – 10 km
+561;Mathieu;VIGNAL;M;SEM;Individuel;Toulouse;30km;Lou Costo – 30 km
+562;Florence;VIDAL;F;M1F;Individuel;Saint-Sulpice;rando;Randonnée
+563;Nicolas;PRAT;M;M1M;Aussiillon Trail;Aussillon;18km;Lou Cami – 18 km
+564;Caroline;BARTHES;F;M0F;Individuel;Rabastens;10km;Solo – 10 km
+565;Julien;ROQUES;M;SEM;Team 12;Rodez;30km;Lou Costo – 30 km
+566;Sonia;BOUISSOU;F;M2F;Individuel;Graulhet;rando;Randonnée
+567;David;RENAUD;M;M3M;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+568;Audrey;VAISSIERE;F;M1F;Individuel;Albi;10km;Solo – 10 km
+569;Sébastien;CALMETTES;M;M1M;Macadam Colomiers;Colomiers;30km;Lou Costo – 30 km
+570;Emmanuelle;GOMEZ;F;M0F;Individuel;Lavaur;rando;Randonnée
+571;Frédéric;COMBES;M;M2M;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+572;Valérie;CATHALA;F;M3F;Individuel;Castres;10km;Solo – 10 km
+573;Stéphane;GUILHOT;M;M2M;Graulhet Athlé;Graulhet;30km;Lou Costo – 30 km
+574;Sylvie;BOUSQUET;F;M4F;Individuel;Gaillac;rando;Randonnée
+575;Loïc;MARTINEZ;M;SEM;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+576;Mélanie;DURAND;F;SEF;Individuel;Albi;10km;Solo – 10 km
+577;Olivier;PECH;M;M1M;Team Trail Tarnaise;Mazamet;30km;Lou Costo – 30 km
+578;Nadine;BERTRAND;F;M5F;Individuel;Lisle-sur-Tarn;rando;Randonnée
+579;Yannick;BOYER;M;M0M;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+580;Aurélie;GARY;F;M1F;Individuel;Graulhet;10km;Solo – 10 km
+581;Christophe;PAGES;M;M3M;Castres Olympique;Castres;30km;Lou Costo – 30 km
+582;Chantal;ROQUES;F;M6F;Individuel;Realmont;rando;Randonnée
+583;Alexandre;MOULIN;M;SEM;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+584;Sandrine;REYNES;F;M2F;Individuel;Lavaur;10km;Solo – 10 km
+585;Guillaume;VIVIES;M;M1M;Team Running Albi;Albi;30km;Lou Costo – 30 km
+586;Isabelle;MARON;F;M3F;Individuel;Briatexte;rando;Randonnée
+587;Benoît;SABLAYROLLES;M;M0M;Individuel;Castres;18km;Lou Cami – 18 km
+588;Nathalie;GARCIA;F;M4F;Briatexte Athlé;Briatexte;10km;Solo – 10 km
+589;Romain;REVEL;M;SEM;Individuel;Toulouse;30km;Lou Costo – 30 km
+590;Estelle;GIRAUD;F;M1F;Individuel;Gaillac;rando;Randonnée
+591;Patrice;BONNET;M;M2M;Graulhet Athlé;Graulhet;18km;Lou Cami – 18 km
+592;Sandrine;GOMEZ;F;M2F;Individuel;Lavaur;10km;Solo – 10 km
+593;Sébastien;ROQUES;M;M1M;Team 12;Rodez;30km;Lou Costo – 30 km
+594;Chantal;BERTRAND;F;M5F;Individuel;Briatexte;rando;Randonnée
+595;Florian;AURIOL;M;SEM;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+596;Virginie;MARTY;F;M0F;Individuel;Albi;10km;Solo – 10 km
+597;Lionel;FABRE;M;M3M;Graulhet Athlé;Graulhet;30km;Lou Costo – 30 km
+598;Monique;VIDAL;F;M6F;Individuel;Saint-Sulpice;rando;Randonnée
+599;Jérémy;COMBES;M;M0M;Individuel;Castres;18km;Lou Cami – 18 km
+600;Émilie;PRAT;F;M1F;Aussillon Trail;Aussillon;10km;Solo – 10 km
+601;Thierry;BOUSQUET;M;M4M;Individuel;Gaillac;30km;Lou Costo – 30 km
+602;Nathalie;MEYER;F;M3F;Briatexte Athlé;Briatexte;rando;Randonnée
+603;Stéphane;CALMETTES;M;M1M;Macadam Colomiers;Colomiers;18km;Lou Cami – 18 km
+604;Audrey;ALRIC;F;M2F;Individuel;Albi;10km;Solo – 10 km
+605;Cédric;GARCIA;M;M1M;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+606;Stéphanie;ALRIC;F;M2F;Individuel;Albi;10km;Solo – 10 km
+607;Jérôme;MAZEL;M;SEM;Team Trail Tarnaise;Castres;30km;Lou Costo – 30 km
+608;Amandine;ROUQUETTE;F;SEF;Individuel;Lavaur;rando;Randonnée
+609;Thomas;MEYER;M;M2M;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+610;Nathalie;FABRE;F;M3F;Graulhet Athlé;Graulhet;10km;Solo – 10 km
+611;Mathieu;VIGNAL;M;SEM;Individuel;Toulouse;30km;Lou Costo – 30 km
+612;Florence;VIDAL;F;M1F;Individuel;Saint-Sulpice;rando;Randonnée
+613;Nicolas;PRAT;M;M1M;Aussiillon Trail;Aussillon;18km;Lou Cami – 18 km
+614;Caroline;BARTHES;F;M0F;Individuel;Rabastens;10km;Solo – 10 km
+615;Julien;ROQUES;M;SEM;Team 12;Rodez;30km;Lou Costo – 30 km
+616;Sonia;BOUISSOU;F;M2F;Individuel;Graulhet;rando;Randonnée
+617;David;RENAUD;M;M3M;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
+618;Audrey;VAISSIERE;F;M1F;Individuel;Albi;10km;Solo – 10 km
+619;Sébastien;CALMETTES;M;M1M;Macadam Colomiers;Colomiers;30km;Lou Costo – 30 km
+620;Emmanuelle;GOMEZ;F;M0F;Individuel;Lavaur;rando;Randonnée
+621;Frédéric;COMBES;M;M2M;Briatexte Athlé;Briatexte;18km;Lou Cami – 18 km
