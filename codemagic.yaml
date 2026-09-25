@@ -12,9 +12,11 @@ workflows:
     scripts:
       - name: Installer les dépendances
         script: |
-          flutter packages pub get
+          flutter build ios --simulator --no-codesign
+
       - name: Build de l'application pour iOS
         script: |
           flutter build ios --no-codesign
-    artifacts:
-      - build/ios/iphoneos/*.app
+        artifacts:
+      - build/ios/iphonesimulator/*.app
+
